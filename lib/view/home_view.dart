@@ -27,7 +27,7 @@ class HomeView extends StatelessWidget {
             margin: const EdgeInsets.only(right: 15),
             child: CircleAvatar(
               backgroundImage: AssetImage(
-                "assets/images/logo.png",
+                "assets/images/badarimageformal.png",
               ),
             ),
           ),
